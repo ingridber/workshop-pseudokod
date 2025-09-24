@@ -17,3 +17,23 @@
         OM FALSE: return the name as it is [Fullname]
     */
 
+
+
+// GRASSHOPPER
+    // Driver: Ingrid Navigator: Mattias, Elias
+
+// MÅL
+    // Hitta summan mellan alla tal och input
+    // Talen kommer alltid vara positiva och större än 0
+
+// INPUTS
+    // one integer
+
+// RETURN
+    // summan av alla nummer räknat från 1 fram till input-siffran
+
+// FUNTKTIONSBESKRIVING
+    // Deklarera tom variabel ex. sum = 0
+    // Starta loop på input-siffra ex. 1 och sluta på input
+    // För varje iteration plussa i till sum
+    // Returnera sum
